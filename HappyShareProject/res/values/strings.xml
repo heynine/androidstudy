@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HappyShareProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Dialog显示方式</string>
+    
+    <string name="dialog_title">分享到...</string>
+
+</resources>
